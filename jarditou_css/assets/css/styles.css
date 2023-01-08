@@ -1,0 +1,119 @@
+body{
+    background-image: url(../../../src/img/white.png);
+    background-repeat: no-repeat;
+  
+  }
+/* Images */
+#logoj {
+    width: 25%;
+    height: 10%;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#promo_img img{
+    width: 1950px;
+    height: auto;
+}
+#error #err {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* tableau */
+ table, th, td {
+    border-style: hidden;
+}
+#photo_1, #photo_2, #photo_3, #photo_4, #photo_5 {
+    margin: 10%;
+    width : 100px;
+}
+table {
+    border-collapse: collapse;
+}
+
+/* text */
+#error h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+header p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+/* footer*/
+footer ul {
+    overflow: hidden;
+    list-style-type: none;
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+}
+
+footer p {
+    text-align: center;
+    color: white
+}
+
+footer {
+    background-color: #484848;
+}
+
+footer {
+    bottom: 0;
+    height: 142px;
+}
+#qualite, #about_text h1 {
+    text-align: center;
+}
+/* contact */
+form {
+    text-align: center;
+}
+#jardi_t {
+    font-size: 3.5em;
+    margin: 0;
+    text-align: right;
+    margin-top: -9.5%
+}
+/* aside */
+#droit {
+    background-color: #484848;
+    height: 144px;
+    float: right;
+    width: 300px;
+    margin-top: -7.5%;
+    margin-bottom: 20px;
+    justify-content: flex-start;
+}
+
+/* card */
+
+.card {
+    width:300px; 
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* myserv */
+
+#myserv {
+    text-align: center;
+}
+
+/* reseau */ 
+
+#mes_reseaux {
+    text-align: center;
+}
+
+
