@@ -1,3 +1,5 @@
 function monDS() {
-    alert("𝕯.Registre. 蛇#0001")
+    alert("𝕯.Registre Ø𝒛ā𝒌ī 蛇#0001")
 }
+
+

@@ -1,6 +1,7 @@
 body{
     background-image: url(../../../src/img/white.png);
     background-repeat: no-repeat;
+    background-size: cover;
   
   }
 /* Images */
